@@ -17,7 +17,11 @@ The dataset contains information of 11,161 pets that uses either Lapcat or Lapdo
 
 - Research Question 3 - What are the demographic differences between dogs and cats using Waggle devices, and what characteristics can be identified about the families who own these pets?
 
+The project includes various visualisations including bar chart, line chart, donut chart, table, map, scatter plot, maps.
 
+The project features interactive slicers, drill-downs, drill-through pages, dynamic buttons for navigation, use of corporate branding and bookmarks for visual swapping and filter resetting. 
+
+The aim is to deliver a boardroom-ready report that answers the CEO's questions on the first page, with deeper insights on subsequent pages.
 
 
 ## Files used
